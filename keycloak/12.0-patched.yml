@@ -1,6 +1,6 @@
 openapi: 3.0.2
 info:
-  title: Keycloak Admin REST API
+  title: Keycloak Admin REST API v12
   description: This is a REST API reference for the Keycloak Admin
   version: '1'
 paths:
